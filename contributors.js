@@ -1,4 +1,4 @@
-let table = document.getElementById("counthere");
+let table = document.getElementById("allScores");
 
 function renderdescriptionTable(description) {
   let i = 1;
