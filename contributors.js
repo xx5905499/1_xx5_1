@@ -1,4 +1,4 @@
-let table = document.getElementById("allScores");
+let table = document.getElementById("counthere");
 
 function rendercontributionsTable(contributions) {
   let i = 1;
